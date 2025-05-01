@@ -1,0 +1,4 @@
+This project is a single core Operating System built in Java. It uses Java Threads to do task switching. Throughout the project, several different task switching methods were implemented as well as 
+several different devices. 
+Some of these devices include a Kernel, memory, memory managament, a file system, and a virtual file system. Additionally, all of the tests that were used are in the source code so it is possible to model
+tests after those. They work on a line counter where the Operating System knows which line to jump into based on the number of times that the thread was ran during the test.

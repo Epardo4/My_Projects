@@ -1,0 +1,3 @@
+This project is a single core processor and an assembler built in Java. The assembler works based on taking in some assembly and then using lexical analysis to determine what code corresponds to what tokens.
+These tokens are then turned into binary and are then fed to the processor to run different basic code such as if statements, loops, multiplication, addition, subtraction, and memory management.
+In addition to a processor, this project also contains a main memory, a cache, and registers to store variables and other information.

@@ -1,2 +1,2 @@
-This project is based off of the language AWK and works as a functioning interpreter. It was made in Java and can take in AWK code. First it uses lexical analyses to figure out what the code is.
+This project is based off of the language AWK and works as a functioning interpreter. It was made in Java and can take in AWK code. First it uses lexical analyses to create tokens based on the provided code.
 Then it parses the code to feed input to the interpreter. Then it interprets the new parsed blocks as Java code and runs it. The input is a text file to run code on and a text file containing the code.
